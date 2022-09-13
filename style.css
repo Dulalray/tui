@@ -1,0 +1,16 @@
+.box{
+    width: 400px;
+    margin: 50px auto;
+}
+
+.field {
+    min-width: 500px;
+    padding: 6px;
+    margin: 30px;
+    border: 1px solid;
+}
+.top{
+    float: none !important;
+    width: auto !important;
+    margin-bottom: 0.5rem !important;
+}
